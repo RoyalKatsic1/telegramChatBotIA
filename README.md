@@ -11,6 +11,7 @@ Tech01 is a simple Telegram chat bot integrated with artificial intelligence (AI
 - Responds to user messages in Ukrainian.
 - Utilizes the Ollama AI model for generating responses.
 - Maintains context for ongoing conversations.
+- Stores conversation context in a local file (`conversation_context.txt`).
 - Provides commands for starting conversations, updating context, and translating messages.
 
 # Requirements
